@@ -1,8 +1,8 @@
 # XAI
 
-##Teammitglieder
+## Teammitglieder
 
 * Büsra Agzikara
 * Zehra Aydin
 
-##Forschungsfrage
+## Forschungsfrage
